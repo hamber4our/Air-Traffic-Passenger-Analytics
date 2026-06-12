@@ -125,7 +125,9 @@ The following data preparation steps were completed:
 
 ## Dashboard Preview
 
-(Add screenshots of your completed dashboard here)
+<p align="center">
+  <img src="Dashboard.png" alt="Air Traffic Passenger Dashboard" width="1000">
+</p>
 
 ---
 
